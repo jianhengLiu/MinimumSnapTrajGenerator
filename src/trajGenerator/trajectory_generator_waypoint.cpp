@@ -1,4 +1,4 @@
-#include "../include/trajGenerator/trajectory_generator_waypoint.h"
+#include "trajGenerator/trajectory_generator_waypoint.h"
 #include <ros/console.h>
 #include <iostream>
 #include <string>
